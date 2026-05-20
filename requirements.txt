@@ -2,3 +2,5 @@ nltk
 pandas
 kagglehub
 scikit-learn
+torch
+transformers
